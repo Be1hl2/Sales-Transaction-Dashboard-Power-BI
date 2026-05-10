@@ -4,7 +4,7 @@ Designed and developed a multi-page interactive Power BI dashboard solution for 
 
 • Created a trend analysis page to compare Profit % vs MoM growth, quarterly revenue vs order volume, and category-level Average Order Value to identify seasonality and margin behavior
 
-• Developed a matrix-based monthly performance analysis page with filters for **month, brand, and city, enabling granular tracking of revenue, profit %, MoM %, AOV, and ASP
+• Developed a matrix-based monthly performance analysis page with filters for month, brand, and city, enabling granular tracking of revenue, profit %, MoM %, AOV, and ASP
 
 • Identified a critical business insight where positive sales growth did not translate into profitability, highlighting pricing pressure and cost-driver concerns
 
