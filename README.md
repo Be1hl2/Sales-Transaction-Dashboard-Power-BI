@@ -1,16 +1,92 @@
-Designed and developed a multi-page interactive Power BI dashboard solution for sales performance, profitability analysis, trend diagnostics, and monthly KPI monitoring
+Sales Transaction Dashboard Analysis
+📌 Project Overview
+This Power BI dashboard was developed to analyze sales performance, profitability trends, and operational KPIs across multiple business dimensions including region, brand, segment, and city.
+The objective of the project was to identify:
 
-• Built executive KPI cards including Total Orders, Sales MoM %, Profit %, Average Order Value, and Average Selling Price to provide a single-view business performance summary
+revenue growth patterns
+profitability behavior
+pricing and margin trends
+regional and brand-level performance
+business areas impacting overall profitability
 
-• Created a trend analysis page to compare Profit % vs MoM growth, quarterly revenue vs order volume, and category-level Average Order Value to identify seasonality and margin behavior
 
-• Developed a matrix-based monthly performance analysis page with filters for month, brand, and city, enabling granular tracking of revenue, profit %, MoM %, AOV, and ASP
+The dashboard enables interactive and decision-oriented analysis through dynamic filters, KPI monitoring, and multi-page drill-down capabilities.
 
-• Identified a critical business insight where positive sales growth did not translate into profitability, highlighting pricing pressure and cost-driver concerns
+📊 Dashboard Features
+Executive KPI Summary
+The dashboard includes key business KPIs for high-level performance monitoring:
 
-• Enabled decision-ready analysis through slicers, multi-page navigation, matrix views, and interactive filters for brand and location-based deep dives.
+Total Revenue
+Total Orders
+Sales MoM %
+Profit %
+Average Selling Price (ASP)
+Average Order Value (AOV)
 
-• Recommended actions around pricing optimization, cost control, and product portfolio margin improvement.
+
+These KPIs provide a consolidated view of sales and profitability performance.
+
+📈 Trend Analysis
+A dedicated trend analysis page was created to evaluate:
+Profit % vs Month-over-Month Sales Growth
+Quarterly Revenue vs Order Volume
+Category-Level Average Order Value
+Revenue and profitability seasonality trends
+
+
+This analysis helped identify performance fluctuations and margin behavior over time.
+
+📋 Matrix-Based Performance Analysis
+A matrix analysis page was developed for detailed monthly performance tracking across:
+
+Revenue
+Profit %
+MoM %
+Average Order Value
+Average Selling Price
+
+Interactive filtering by:
+Month
+Brand
+Region
+City
+Segment
+enabled granular business analysis and drill-down exploration.
+
+🔍 Key Business Insight
+One of the major findings from the dashboard was:
+Sales growth remained positive while profitability continued to decline.
+This indicated that increasing revenue alone was not translating into improved business performance.
+
+Further analysis suggested:
+pricing pressure
+higher operational or product costs
+margin inefficiencies across categories or regions
+
+
+
+🎯 Business Impact & Recommendations
+The dashboard supports data-driven decision-making by helping stakeholders:
+identify low-margin growth areas
+monitor pricing efficiency
+evaluate region-wise and brand-wise performance
+track profitability trends proactively
+Recommended focus areas included:
+
+pricing optimization
+cost control strategies
+product portfolio margin improvement
+profitability-focused sales planning
+
+🛠 Tools & Technologies Used
+Power BI
+DAX
+Power Query
+Data Modeling
+Interactive Slicers & Navigation
+Matrix Visual Analysis
+
+
 
 ![Sales_image](https://github.com/user-attachments/assets/83c9340d-3aca-43df-9ca2-ef1bb0d47811)
 
