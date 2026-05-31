@@ -1,6 +1,7 @@
 Sales Transaction Dashboard Analysis
 📌 Project Overview
-This Power BI dashboard was developed to analyze sales performance, profitability trends, and operational KPIs across multiple business dimensions including region, brand, segment, and city.
+Developed a multi-page Power BI dashboard for sales performance, profitability analysis, and KPI tracking.
+Built executive KPI scorecards covering Revenue, Orders, Profit %, Average Order Value, and sales trends, reducing manual reporting effort by approximately 30% through dashboard automation.
 The objective of the project was to identify:
 
 revenue growth patterns
@@ -8,12 +9,6 @@ profitability behavior
 pricing and margin trends
 regional and brand-level performance
 business areas impacting overall profitability
-
-Tracked key KPIs including $2M Sales, 6.5K+ Orders, 18.3% YoY Growth, and 12% Profit Margin, enabling comprehensive business performance monitoring.
-
-Performed customer segmentation, payment mode analysis, and product-level profitability assessment to identify revenue growth opportunities and purchasing patterns.
-
-Automated reporting and KPI tracking through interactive dashboards, reducing manual analysis effort by approximately 25-30% and supporting faster data-driven decision-making.
 
 
 The dashboard enables interactive and decision-oriented analysis through dynamic filters, KPI monitoring, and multi-page drill-down capabilities.
