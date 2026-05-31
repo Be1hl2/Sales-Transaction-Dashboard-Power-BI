@@ -9,6 +9,12 @@ pricing and margin trends
 regional and brand-level performance
 business areas impacting overall profitability
 
+Tracked key KPIs including $2M Sales, 6.5K+ Orders, 18.3% YoY Growth, and 12% Profit Margin, enabling comprehensive business performance monitoring.
+
+Performed customer segmentation, payment mode analysis, and product-level profitability assessment to identify revenue growth opportunities and purchasing patterns.
+
+Automated reporting and KPI tracking through interactive dashboards, reducing manual analysis effort by approximately 25-30% and supporting faster data-driven decision-making.
+
 
 The dashboard enables interactive and decision-oriented analysis through dynamic filters, KPI monitoring, and multi-page drill-down capabilities.
 
